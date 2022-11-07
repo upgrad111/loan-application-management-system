@@ -40,7 +40,7 @@ Approve Reject Status
 ### Project Structure
 
 
-![Image Not Found](/src/main/webapp/resources/images/project_structure.png)
+![Image Not Found](/src/main/webapp/resources/images/project_structure_v2.png)
 
 ### API End Points
 **(Note:: Each file in the boilerplate explains, what to be implemented in the form of comments )**
