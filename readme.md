@@ -1,4 +1,6 @@
-# Goal
+# Loan Application Management System
+
+### Goal
 
 The goal of this assignment is to create a monolithic application using Java Technologies like Java 8 / 11, Spring, Spring MVC, JSP, JSTL . SQL, Hibernate, MySQL , Maven and Git
  
