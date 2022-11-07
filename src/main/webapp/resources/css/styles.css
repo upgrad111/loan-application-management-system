@@ -1,0 +1,29 @@
+.header-section {
+  height: 12vh;
+  width: 100%;
+  
+ 
+}
+
+.bg-dark {
+  background-color: #f96a3f !important;
+}
+
+.app-title {
+  color: #fff;
+  font-size: 1.5em;
+  margin-left: 30vw;
+}
+
+.navbar-brand img {
+  height: 8vh;
+  width: 8vw;
+}
+
+.loan-application-form{
+	margin-top: 2vh;
+}
+
+.loan-applications-table{
+	width:90vw;
+}
