@@ -1,13 +1,21 @@
-# SpringMVC-Hibernate Assignment
+# Goal
 
-The objective of this assignment is to create a monolithic application using JSP, JSTL, Spring MVC, Hibernate and MySQL. 
+The goal of this assignment is to create a monolithic application using Java Technologies like Java 8 / 11, Spring, Spring MVC, JSP, JSTL . SQL, Hibernate, MySQL , Maven and Git
+ 
 
 ### Problem Statement
 
-In this assignment, we will create a monolithic application using the following technologies
-1.	JSP, JSTL                               (Front-end Web Page)
-2.	Spring MVC                              (Backend)
-3.	JdbcTemplate                            (Database)
+Freecharge offers personal loans to its loyal customers. As part of it, Freecharge expects to create an online application, where customers can apply for a loan filling the application form.   Upon the successful submission of the application form, the Freecharge team will be able to see the application details and can decide whether to approve or reject the loan application. The team can also delete the application.
+
+You are expected to create a spring mvc based monolithic application to fulfill this requirement using the following tech stack.
+
+“*”Java 11
+“*”Spring 5.1.5
+“*”Hibernate  5.4.2
+“*”JSP
+“*”MySQL 8
+“*”Maven
+“*”Git
 
 
 
